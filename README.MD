@@ -1,3 +1,7 @@
+# Version de curso de Git
+
+Versión: v1.2.2
+
 # Cabeceras
 
 - # Soy cabecera 1
